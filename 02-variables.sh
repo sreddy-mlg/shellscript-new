@@ -1,5 +1,4 @@
 #!/bin/bash
-# change date and time
 
-Date=$(date)
-echo "date and time is: "${Date}"
+DATE=$(date)
+echo "date  is: ${DATE}"
