@@ -1,4 +1,5 @@
 #!/bin/bash
+#comment
 
 USERNAME=$1
 PASSWORD=$2
